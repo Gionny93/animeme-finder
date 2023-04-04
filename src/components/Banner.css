@@ -1,0 +1,10 @@
+.banner {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 1rem;
+    /* background-color: rgba(63, 81, 181, 1); */
+    background-color: #000;
+    color: rgba(229, 231, 235, 1);
+    border-bottom: 1px solid rgba(255, 152, 0, 1);
+  }
