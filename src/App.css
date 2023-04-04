@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+.App {
+  text-align: center;
+  display:flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: rgba(40, 44, 52, 1);
+  color: rgba(229, 231, 235, 1);
+}
+
+a {
+  color: rgba(255, 152, 0, 1);
+}
+
+a:hover {
+  color: rgba(255, 193, 7, 1);
+}
